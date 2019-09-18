@@ -1,0 +1,498 @@
+[
+	{
+		"title": [
+			"Pratik Vanol",
+			"Senior Analyst Programmer",
+			"B.End Computer"
+		],
+		"header": {
+			"name": "Mr. Pratik Vanol",
+			"qualification1": "Senior Analyst Programmer",
+			"qualification2": "B.Eng Computer",
+			"dp": "http://www.pratikvanol.com/images/pratik_black.jpeg"
+		},
+		"menu": [
+			{
+				"name": "Career Highlight",
+				"tag": "careerhighlight"
+			},
+			{
+				"name": "Skills",
+				"tag": "skills"
+			},
+			{
+				"name": "Companies",
+				"tag": "companies"
+			},
+			{
+				"name": "Can do",
+				"tag": "cando"
+			},
+			{
+				"name": "Projects",
+				"tag": "projects"
+			},
+			{
+				"name": "Education",
+				"tag": "education"
+			}
+		],
+		"candidatedata": {
+			"name": "Pratik P. Vanol",
+			"fname": "Pratik",
+			"lname": "Vanol",
+			"residency": "Indian citizen",
+			"relatedstudies": "Bachelor of Engineering (Computer)",
+			"address": "53 gandhikunj soc, ambavadi, ahmedabad, gujarat, India",
+			"email": "pratik016@gmail.com",
+			"skype": "pratikvanol",
+			"mobile": "+91-982-582-6658"
+		},
+		"careerhighlight": [
+			"12+ years track record of in-depth hands-on experience in full life cycle of software development.",
+			"4+ years hands-on experience in developing Sencha application using ExtJS (Rich Javascript Framework).",
+			"3+ years experince in Zend framework technology.",
+			"Performance optimization for enterprice applications.",
+			"Software architec design for big enterprice applications",
+			"Requirement gathering from client and ultimate valuable suggestion to them for eco friendly websites.",
+			"Ownership on maintanance of large scale projects"
+		],
+		"skills": [
+			{
+				"name": "PHP",
+				"point": "90"
+			},
+			{
+				"name": "Angular(Version 5)",
+				"point": "70"
+			},
+			{
+				"name": "Laravel",
+				"point": "85"
+			},
+			{
+				"name": "Sencha-ExtJS (Version 3.x, 4.x, 5.x and 6.x)",
+				"point": "90"
+			},
+			{
+				"name": "React",
+				"point": "70"
+			},
+			{
+				"name": "ReactNative",
+				"point": "40"
+			},
+			{
+				"name": "NodeJS",
+				"point": "50"
+			},
+			{
+				"name": "Zend Framework(Version 1.x, 2.x)",
+				"point": "60"
+			},
+			{
+				"name": "WordPress",
+				"point": "60"
+			},
+			{
+				"name": "Jquery",
+				"point": "80"
+			},
+			{
+				"name": "Linux commands",
+				"point": "60"
+			},
+			{
+				"name": "AWS cloud",
+				"point": "70"
+			}
+		],
+		"otheractivities": [
+			"I had achieved 2nd rank in CREATO-2002, state level compitition for the projects."
+		],
+		"experince": [
+			{
+				"duration": "August 2018 – Till date",
+				"company": "HN Health Care Private Limited, India",
+				"position": "Technical Head (I.T. Dept.)",
+				"responsibilities": [
+					"Working as an IT head in HN Health Care Private Limited.",
+					"Involved in transition project to ensure smooth development of websites.",
+					"Client communication for status and other support for websites.",
+					"Involves personally for the selection and finalization of the graphics to be used and other software content.",
+					"Assisting the team member for developing the websites code, it may be generating the code, integrating the developed code or performs the modifications of the code.",
+					"Leading the team of web designer, developer and QA Engineer for the better interactivity.",
+					"Managing IT sector in Health Care Company."
+				]
+			},
+			{
+				"duration": "October 2017 – August 2018",
+				"company": "Riaan Solution, India",
+				"position": "Consultant",
+				"responsibilities": [
+					"Working as a IT consultant in Riaan Solution.",
+					"Involved in transition project to ensure smooth development of websites.",
+					"Client communication for status and other support for websites.",
+					"Requirement gathering and estimation of projects.",
+					"Responsible for architecture development for any new projects.",
+					"Deployment of the production release."
+				]
+			},
+			{
+				"duration": "July 2010 – August 2017",
+				"company": "Gateway technolabs, India",
+				"position": "Senior Analyst Programmer",
+				"responsibilities": [
+					"Working as a full-time senior analyst programmer.",
+					"Created core architecture for some of large client websites.",
+					"Major role on weekly PSR meeting with client.",
+					"Owenership of large scaled projects.",
+					"Deployment of production, acceptance and test server.",
+					"Major role to enhance performance in large enterprise website for frontend and backend.",
+					"Trainned resources(5) for ExtJS(Rich Javascript Framework) for further development.",
+					"Requirement gathering and estimation of projects.",
+					"Client communication for status and other support for websites."
+				]
+			},
+			{
+				"duration": "June 2009 – June 2010",
+				"company": "The dream technologies, India",
+				"position": "Senior developer",
+				"responsibilities": [
+					"Working as a full-time senior developer.",
+					"It is a product based company and we developed new features and maintain existing features for the company’s websites.",
+					"Created new framework with team that based on MVC which is highly support for caching mechanism for performance (we called it to Nexus framework at that time).",
+					"Requirement gathering for tasks and develop with best possible suited solution."
+				]
+			},
+			{
+				"duration": "September 2008 - April 2009",
+				"company": "Juriscape Legal Research pvt. ltd",
+				"position": "Jr. developer",
+				"responsibilities": [
+					"Working as a full-time programmer.",
+					"It is a product based company and I with my team managed number of websites for the company.",
+					"New automated tool for job posting.",
+					"Serve high quality development in new features devlopement.",
+					"Analysis of the requirement and developing fully featured modules."
+				]
+			},
+			{
+				"duration": "September 2007 - August 2008",
+				"company": "Oyster group, India",
+				"position": "Sr. Developer",
+				"responsibilities": [
+					"Working as a full-time Developer.",
+					"Comany’s head-quarter was in Leicestershire, Uk.",
+					"Communication with overseas manager.",
+					"Requirement gathering and estimation of the task.",
+					"Development and testing for the task.",
+					"Deployment to production, test servers."
+				]
+			},
+			{
+				"duration": "May 2006 – October 2006",
+				"company": "Aditech Infosys, India",
+				"position": "Developer",
+				"responsibilities": [
+					"Working as a full-time Developer.",
+					"Responsible for module level development.",
+					"Deployment to test servers.",
+					"Requirement analysis which gathered from Project Manager."
+				]
+			}
+		],
+		"cando": [
+			"Lead / supervise developing teams: Advanced",
+			"Client /Vendor interfacing: Advanced",
+			"Support BA and QA: Advanced",
+			"SDLC and STLC knowledge: Advanced",
+			"Determine product requirements: Advanced",
+			"Estimation on projects: Advanced",
+			"Architec design on software: Advanced",
+			"Scope finalized: Advanced",
+			"Agile methodology: Advanced",
+			"Trainning to team: Advanced",
+			"Documentation on requirements: Advanced",
+			"Performance analysis: Advanced",
+			"Security handle on code: Advanced",
+			"Client communication: Advance",
+			"Team managment: Advanced",
+			"Interpersonal skill: Advanced",
+			"Learning new skill: Advanced",
+			"Handled PSR to client(Project Status Report): Advanced",
+			"Pro-active with client (Suggestion features and other useful points): Advanced",
+			"AWS cloud development: Advanced",
+			"User Experience design: Intermediate",
+			"Agile and Waterfall methodologies: Advanced",
+			"WebService, XML: Intermediate",
+			"Oracle, MYSQL databases: Advanced",
+			"PL-SQL SQL queries: Advanced",
+			"WordPress: Advanced",
+			"Zend framework(ver1,2): Advanced",
+			"Laravel: Intermediate",
+			"ExtJS (ver3,4,5,6): Experts",
+			"Angular5 : Intermediate",
+			"ReactJS: Intermediate"
+		],
+		"projects": [
+			{
+				"name": "Digital healthcare platform",
+				"client": "India",
+				"Duration": "1.5 years and continue",
+				"project_synopsis": [
+					"Social, accademic and e-commerce platform for healthcare professionals",
+					"Laravel stateless APIs for android and angular version",
+					"Fron-end development in Angular",
+					"Chat application based on Redis and NodeJS",
+					"Laravel backend application",
+					"Video streaming",
+					"Lambda for certain features in application such as streaming, EC2 instance management on developement server",
+					"Project hosted on AWS server and use multiple services of AWS",
+					"Responsive web design",
+					"Socket connection for multiple features to enhance performance"
+				],
+				"My Position": [
+					"Head of department, leading project, architecture development"
+				],
+				"Responsibilities": [
+					"Architectre",
+					"Deployment",
+					"Client handle",
+					"Managing project"
+				],
+				"Main Challenges": [],
+				"Tools and technologies": "PHP7.1, Mysql5.7, Angular, Laravel5.3, AWS instance, NodeJS, Redis database"
+			},
+			{
+				"name": "Yatri website",
+				"client": "India",
+				"Duration": "6+ months",
+				"project_synopsis": [
+					"Site needed to be similar level of yatra.com",
+					"Front-end would be in WordPress with AIT-theme(premium theme)",
+					"All data other than informative is based on API from PHP."
+				],
+				"My Position": [
+					" Architecture development, Handling client, other development"
+				],
+				"Responsibilities": [
+					"Create a whole architecture of the application using a AIT-theme with custome MVC plugin for custom features",
+					"Deployment",
+					"Client handle",
+					"Managing project"
+				],
+				"Main Challenges": [],
+				"Tools and technologies": "PHP7, Mysql5.7, WordPress, AIT-theme, SVN repository"
+			},
+			{
+				"name": "Online reservation/booking for chain of hotels",
+				"client": "Netherlands",
+				"Duration": "5+ years",
+				"project_synopsis": [
+					"Administration part is developed in Sencha ExtJS with backed API integrated with .Net",
+					"Online website developed in WordPress and having data from .Net API",
+					"Calendar control and Bryntum’s scheduler grid(Paid version) are used for extra control in UI.",
+					"WebDesktop architecture used with MVC pattern in ExtJS."
+				],
+				"My Position": [
+					"Architecture development, Leading on ExtJS and Online portal"
+				],
+				"Responsibilities": [
+					"Create a whole architecture of the application using a web desktop application in ExtJS.",
+					"Deployment",
+					"Client handle",
+					"Managing project at ExtJS side and Online portal(WordPress)"
+				],
+				"Main Challenges": [
+					"Much more challenges faced in this project. As I am the responsible for all R&D tasks.",
+					"Scheduler Grid has drag-drop event, dynamic calendar customization and many more R&D tasks are done in this project",
+					"Every day new challenges came to resolved earlier stage."
+				],
+				"Tools and technologies": "ExtJS4.2.6, Bryntum scheduler grid, Webdesktop architecture, Visual Studio10, TFS"
+			},
+			{
+				"name": "Yoomy portal",
+				"client": "Netherlands",
+				"Duration": "2+ years",
+				"project_synopsis": [
+					"Zend framework",
+					"Understanding the project requirement and made the code to take care of the standard provided by Zend.",
+					"The aim of job portal is to give cleaver tools to employers and candidates. Tools for the employers to find new staff easier. And tools for the candidate to get a new job easier.",
+					"The employer can search the resume from other employers and candidates can search the job which is available at other employers' site.",
+					"An employer can find the best resume from giving a rating by some of the employer. An employer can use the site from job portal or SOAP is also available for available services so employers can attach job portal’s data to their site.",
+					"It means the whole recruitment process is centralized in job portal.",
+					"There are groups of authorization. Each country has available branches. Branches may have many partners. Partner may have many employers. An employer can have also their own site from where they can use the job portal’s data using SOAP",
+					"Basic attention is communication between employers and candidates.",
+					"The employer has an option for select the service which they required. So they do not need to pay for all type service. They (employer) will have to pay the only service which they want. (Example need to populate resumes in the marketplace, then only pay for that.). The Employer portal also offers the functionality to publish the vacancies on a variety of media within, but also outside the system. There are many more functionalities available in job portal."
+				],
+				"My Position": [
+					"Core level Programming, started from scratch.",
+					"Leading when project became DTM mode."
+				],
+				"Responsibilities": [
+					"Technical architecture of the application",
+					"Deployment",
+					"Client handle"
+				],
+				"Main Challenges": [
+					"Purchase Confirmation module: It had a vast features inside single component and behave differently based on parent call."
+				],
+				"Tools and technologies": "EXTJS3.3, PHP5.3, MySQL 5, Windows, SQL-YOG, SVN, Zend Studio"
+			},
+			{
+				"name": "Speaker Portal",
+				"client": "United State",
+				"Duration": "3 months",
+				"project_synopsis": [
+					"This website is based on the management of time schedules and speaker availability for the seminar",
+					"Zend Framework",
+					"Understanding the project requirement and made the code to take care of the standard provided by Zend",
+					"ACL implementation",
+					"Mail communication and management of speakers availability and seminar manipulation from different level of users.",
+					"Core level Programming, started from scratch."
+				],
+				"My Position": [
+					"Technical architect"
+				],
+				"Responsibilities": [
+					"Technical architecture of the application",
+					"Deployment",
+					"Client handle",
+					"Managing project",
+					"Responsible for escalation handling"
+				],
+				"Main Challenges": [
+					"Get back complete project which is almost an escalation after client interaction"
+				],
+				"Tools and technologies": "PHP5.3, Mysql5, Sqlyog, SVN"
+			},
+			{
+				"name": "Squage Application",
+				"client": "United State",
+				"Duration": "1 year",
+				"project_synopsis": [
+					"This website is used for the management of data which is used on the client side adobe based application.",
+					"Zend framework",
+					"Understanding the project requirement and made the code to take care of the standard provided by Zend",
+					"API development uses for adobe application for data of the application."
+				],
+				"My Position": [
+					"Sr developer"
+				],
+				"Responsibilities": [
+					"Developing code for security models like overwrite security for some lists and webs.",
+					"Deployment"
+				],
+				"Main Challenges": [
+					"API using zend framework"
+				],
+				"Tools and technologies": "PHP3, Mysql, Sqlyog, SVN"
+			},
+			{
+				"name": "Employment crossing",
+				"client": "United State",
+				"Duration": "2 months",
+				"project_synopsis": [
+					"Ask a question module similar to “yahoo ask a question",
+					"List of questions at client section, first tabs, recently added. And then most popular.",
+					"Search for a questions",
+					"Rating question and answers",
+					"Centralized module for all crossing websites"
+				],
+				"My Position": [
+					"Developer"
+				],
+				"Responsibilities": [
+					"Requirement understanding",
+					"Developement"
+				],
+				"Main Challenges": [
+					"Common module for all crossing websites(almost 120+ crossing website was running at that time)"
+				],
+				"Tools and technologies": "PHP3, Mysql, Zend Studio, Edit plus, Examdif"
+			},
+			{
+				"name": "Automated Jobposting",
+				"client": "United State",
+				"Duration": "4 months",
+				"project_synopsis": [
+					"Fetch new jobs from all crossing websites and other JobPortal company’s website and configured automated..",
+					"Admin selects the job types and jobboard to where it could post.",
+					"Job posted in calculative manner (I.e 5 jobs from each section and post it to many job boards)",
+					"Posting job using core coding in many Jobboard. (Using API and curl module)",
+					"Jobboard management from admin side.",
+					"Job posting management from admin side."
+				],
+				"My Position": [
+					"Analyst Programmer"
+				],
+				"Responsibilities": [
+					"Requirement understanding",
+					"Developement"
+				],
+				"Main Challenges": [
+					"Job Posting in some job board is tough as they have complex code and hard to get assumption for posting jobs",
+					"Taking care of our posted job should not consider as a spam list"
+				],
+				"Tools and technologies": "PHP3, Mysql, Zend Studio, Edit plus, Examdif"
+			},
+			{
+				"name": "Wedding websites",
+				"client": "United Kingdom",
+				"Duration": "13 months",
+				"project_synopsis": [
+					"This website is use for wedding management. There are many more features available.",
+					"User Management",
+					"Admin management with given permission and logged information.",
+					"Each country has an admin and all can have different authentication.",
+					"Region and county management is from the admin section and it is hierarchy of county",
+					"Admin wise customer management(i.e. report for how many and what type of customer available for which admin)",
+					"Total sale with individual sell of admin.",
+					"Testimonial management on admin side.",
+					"Affiliate management",
+					"Wedding management (i.e. calculation of each and every aspect)",
+					"Manage the all types of vendor which is used in wedding. Contact information for all vendors and selling information. (which means manage the all county wise vendors, on how much sell they can produce and price list of things what they are selling and contact information. (I.e For flowers, customer can view which vendor is available for flower and what is the price and they can directly purchase from that vendor too.)",
+					"Automated Address search functionality. The customer does not need to insert the address manually. They will insert the postcode and all address within this postcode will be fetched and the customer will select his/her address from the list",
+					"Gift registration. Relative or any friends can also subscribe to the website for the new couple.",
+					"30 day trial period.",
+					"Created own website for registered customer. And given sub-domain name from our website using the code.",
+					"Each customer has facilities to select the 18 different type templates",
+					"36 different types of features available to each customer. (Some of them are : RSVP, invitation friend, Album  manipulation, Sending Cards for a wedding, detail for each moment which can hold in weddings. Like a ring ceremony… each of every moment has own section and the customer can write their experience and  friends can comment of that moment in their section.)",
+					"Payment Method (Using PayPal standard, credit card)",
+					"Guest book management for wedding.( how much guest will come, and created RSVP for all of them)",
+					"Newsletter",
+					"Forum",
+					"Live chat application",
+					"Word-press"
+				],
+				"My Position": [
+					"Programmer"
+				],
+				"Responsibilities": [
+					"Requirement understanding",
+					"Developement",
+					"Client communication"
+				],
+				"Main Challenges": [
+					"On fly subdomain created after registration completed."
+				],
+				"Tools and technologies": "PHP, Mysql, Zend Studio, Edit plus, Examdif"
+			}
+		],
+		"education": [
+			{
+				"collage": "Bachelor of Engineering in Computer",
+				"year": 2006,
+				"university": "North Gujarat University (Gujarat, India)",
+				"grade": "First class"
+			},
+			{
+				"collage": "Diploma Computer Engineering",
+				"year": 2003,
+				"university": "B & B Polytechnic (Gujarat, India)",
+				"grade": "First class"
+			}
+		]
+	}
+]
